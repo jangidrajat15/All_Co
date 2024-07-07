@@ -1,0 +1,5 @@
+Account Holder: John Doe
+Account Number: 123456789
+ATM Card Number: 987654321
+Account Balance: $1000.0
+ATM PIN: 1234

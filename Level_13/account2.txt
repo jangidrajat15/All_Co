@@ -1,0 +1,5 @@
+Account Holder: Jane Doe
+Account Number: 987654321
+ATM Card Number: 123456789
+Account Balance: $1500.0
+ATM PIN: 5678
